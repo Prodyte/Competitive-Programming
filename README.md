@@ -1,2 +1,2 @@
-# Hackerearth-Problelms
-My Solution to Hackerearth Problems and Contests
+# Competitive-Programming
+My Solution to Problems from various Competitive Programming websites.
