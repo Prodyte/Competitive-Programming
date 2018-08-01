@@ -1,4 +1,4 @@
-HackerEarth/Practice Section/*.out
-HackerEarth/Practice Section/*.class
-Kickstart/C2018/*.out
-Kickstart/C2018/*.class
+# ignore all utput files.
+*.out
+*.class
+*.vscode
