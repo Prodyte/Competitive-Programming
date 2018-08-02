@@ -1,4 +1,3 @@
-package C2018;
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
@@ -32,9 +31,18 @@ public class SolutionC {
             for(int j=0; j<n; j++){
                 arr.add((xList.get(j) + yList.get(j))%f);
             }
-            long ans = 0;
-
-            System.out.println(ans);
+            long result = 0;
+            long GP_Sum = k;
+            long mod = 1000000007;
+            for(int x=1; x<n; x++){
+            	if(x != 1){
+            		GP_Sum += (Math.pow(x, k+1)-1)*Math.pow(x-1, mod-2);
+            		GP_Sum %= mod;
+            	}
+            	result += GP_Sum*arr.get(x);
+            	result %= mod;
+            }
+            System.out.println("Case #" + (i+1) + ": " + result);
         }
     }
 }
