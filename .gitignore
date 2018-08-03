@@ -2,3 +2,5 @@
 *.out
 *.class
 *.vscode
+*.xml
+*iml
