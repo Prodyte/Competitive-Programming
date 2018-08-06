@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/HackerEarth/HackerEarth.iml" filepath="$PROJECT_DIR$/HackerEarth/HackerEarth.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Kickstart/Kickstart.iml" filepath="$PROJECT_DIR$/Kickstart/Kickstart.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Competitive-Programming.iml" filepath="$PROJECT_DIR$/.idea/Competitive-Programming.iml" />
     </modules>
   </component>
 </project>

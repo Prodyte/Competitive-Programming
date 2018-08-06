@@ -1,14 +1,47 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d0e0ccc4-3fcc-45b5-9ffb-598e96c072cf" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Competitive-Programming.iml" beforeDir="false" />
+    <list default="true" id="4f6de8bc-c854-43ae-95d7-f4c8c2ac8f8f" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HackerEarth/Achhe_Din.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HackerEarth/Akash_and_the_Assignment.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HackerEarth/Alternate_Elements.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HackerEarth/ArrayInsert.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HackerEarth/Array_Sum.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HackerEarth/Binary_Queries.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HackerEarth/Bishu_and_Soldiers.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HackerEarth/Cipher.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HackerEarth/Count Digits.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HackerEarth/Count the Bits.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HackerEarth/Dedication_Level.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HackerEarth/Easy_Going.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HackerEarth/Exploring_Ruins.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HackerEarth/Factorial.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HackerEarth/Find_Product.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HackerEarth/Football_Fest.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HackerEarth/Houses_in_the_cities.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HackerEarth/Max-K-Subarray.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HackerEarth/Max_Profit.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HackerEarth/Memorize_me.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HackerEarth/Micro_Array_Update.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HackerEarth/Modify_Sequence.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HackerEarth/Mon_and_Real_Estate.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HackerEarth/Monk_Love_for_Food.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HackerEarth/Monk_Welcome_Problem.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HackerEarth/Monk_and_Graph_Factory.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HackerEarth/NQueen.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HackerEarth/Palindromic_String.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HackerEarth/Play with Numbers.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HackerEarth/Remove Friends.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HackerEarth/Rest_In_Peace.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HackerEarth/Save_Patients.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HackerEarth/Square_Transaction.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HackerEarth/Toggle String.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HackerEarth/Toggle_String.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HackerEarth/minmax.py" beforeDir="false" />
     </list>
-    <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -19,53 +52,73 @@
     <session id="1439553447">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="3" />
-          <entry key="project.open.time.13" value="1" />
-          <entry key="project.open.time.3" value="1" />
+          <entry key="project.closed" value="2" />
+          <entry key="project.open.time.5" value="1" />
           <entry key="project.open.time.6" value="1" />
-          <entry key="project.opened" value="3" />
+          <entry key="project.opened" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="cpp" value="2" />
-          <entry key="gitignore" value="1" />
-          <entry key="java" value="6" />
+          <entry key="java" value="3" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="Arma.Header" value="1" />
-          <entry key="C++" value="1" />
-          <entry key="JAVA" value="6" />
-          <entry key="PLAIN_TEXT" value="1" />
+          <entry key="JAVA" value="3" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="cpp" value="43" />
-          <entry key="gitignore" value="11" />
-          <entry key="java" value="1483" />
+          <entry key="java" value="676" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="Arma.Header" value="43" />
-          <entry key="JAVA" value="1483" />
-          <entry key="PLAIN_TEXT" value="11" />
+          <entry key="JAVA" value="676" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
-  </component>
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
-      <list>
-        <option value="Class" />
-      </list>
-    </option>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/HackerEarth/August Easy 2018/Problem1.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret selection-end-line="1" selection-end-column="19" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/HackerEarth/August Easy 2018/Problem2.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="165">
+              <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/HackerEarth/August Easy 2018/Problem3.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="45">
+              <caret line="4" column="4" selection-start-line="4" selection-start-column="4" selection-end-line="4" selection-end-column="4" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -81,10 +134,9 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/HackerEarth/Practice Section/HamiltonianandLagrangian.java" />
-        <option value="$PROJECT_DIR$/.gitignore" />
-        <option value="$PROJECT_DIR$/HackerEarth/Practice Section/MonkandRotation.cpp" />
-        <option value="$PROJECT_DIR$/HackerEarth/Practice Section/MonkandRotation.java" />
+        <option value="$PROJECT_DIR$/HackerEarth/August Easy 2018/Problem1.java" />
+        <option value="$PROJECT_DIR$/HackerEarth/August Easy 2018/Problem3.java" />
+        <option value="$PROJECT_DIR$/HackerEarth/August Easy 2018/Problem2.java" />
       </list>
     </option>
   </component>
@@ -93,7 +145,7 @@
     <option name="width" value="1920" />
     <option name="height" value="1053" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+  <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="1" id="Add" />
   </component>
   <component name="ProjectView">
@@ -101,24 +153,36 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
               <item name="Competitive-Programming" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Competitive-Programming" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Competitive-Programming" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Competitive-Programming" type="462c0819:PsiDirectoryNode" />
               <item name="HackerEarth" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Competitive-Programming" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Competitive-Programming" type="462c0819:PsiDirectoryNode" />
+              <item name="HackerEarth" type="462c0819:PsiDirectoryNode" />
+              <item name="August Easy 2018" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
       <pane id="AndroidView" />
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1533291273306" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1533577001366" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="preferences.editor" />
   </component>
   <component name="RunDashboard">
@@ -134,14 +198,6 @@
     </option>
   </component>
   <component name="RunManager">
-    <configuration name="Unnamed" type="Application" factoryName="Application">
-      <option name="ALTERNATIVE_JRE_PATH" value="1.8" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
-      <option name="MAIN_CLASS_NAME" value="MonkandRotation" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <method v="2">
@@ -168,18 +224,19 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="d0e0ccc4-3fcc-45b5-9ffb-598e96c072cf" name="Default Changelist" comment="" />
-      <created>1533222707497</created>
+      <changelist id="4f6de8bc-c854-43ae-95d7-f4c8c2ac8f8f" name="Default Changelist" comment="" />
+      <created>1533391945373</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1533222707497</updated>
+      <updated>1533391945373</updated>
     </task>
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="27" width="1920" height="1053" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25641027" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25320512" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -194,9 +251,8 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.32930845" />
-      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" weight="0.32896176" />
-      <window_info anchor="bottom" id="Version Control" order="9" weight="0.32930845" />
-      <window_info anchor="bottom" id="Messages" order="10" weight="0.32930845" />
+      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -211,48 +267,30 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/HackerEarth/Practice Section/Scientist_Calendar.java">
+    <entry file="file://$PROJECT_DIR$/HackerEarth/August Easy 2018/Problem3.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1830">
-          <caret line="4" column="7" selection-start-line="4" selection-start-column="7" selection-end-line="4" selection-end-column="7" />
+        <state relative-caret-position="45">
+          <caret line="4" column="4" selection-start-line="4" selection-start-column="4" selection-end-line="4" selection-end-column="4" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
+    <entry file="file://$PROJECT_DIR$/HackerEarth/August Easy 2018/Problem1.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="4" lean-forward="true" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="4" />
+        <state>
+          <caret selection-end-line="1" selection-end-column="19" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/HackerEarth/Practice Section/HamiltonianandLagrangian.java">
+    <entry file="file://$PROJECT_DIR$/HackerEarth/August Easy 2018/Problem2.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="200">
-          <caret line="8" column="19" selection-start-line="8" selection-start-column="19" selection-end-line="8" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/HackerEarth/Practice Section/MonkandRotation.cpp">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/HackerEarth/Practice Section/Football_Fest.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="21" column="30" selection-start-line="21" selection-start-column="30" selection-end-line="21" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/HackerEarth/Practice Section/Mo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/HackerEarth/Practice Section/MonkandRotation.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3834">
-          <caret line="137" column="23" selection-start-line="137" selection-start-column="23" selection-end-line="137" selection-end-column="23" />
+        <state relative-caret-position="165">
+          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
